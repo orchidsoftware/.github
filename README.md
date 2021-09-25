@@ -1,2 +1,3 @@
-# .github
-Исходный код файлов сообщества по умолчанию для Orchid Software.
+# Orchid Software - Community Files
+
+Source code of the default community files for the Orchid Software.
