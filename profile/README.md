@@ -1,5 +1,5 @@
 <a href="https://github.com/orchidsoftware/platform">
-   <img src="https://raw.githubusercontent.com/orchidsoftware/art/master/orchid-browser.png" height="450" alt="Orchid browser" align="center" />
+   <img src="https://raw.githubusercontent.com/orchidsoftware/art/master/orchid-browser.png" height="400" alt="Orchid browser" align="center" />
 </a>
 
 
