@@ -1,9 +1,22 @@
 <a href="https://github.com/orchidsoftware/platform">
-   <img src="https://raw.githubusercontent.com/orchidsoftware/art/master/orchid-browser.png" height="400" alt="Orchid browser" align="center" />
+   <img src="https://raw.githubusercontent.com/orchidsoftware/art/master/orchid-browser.png" alt="Orchid browser" />
 </a>
 
 
+## Hi there 👋
+
+Orchid is a free [Laravel](https://laravel.com) package that abstracts standard business logic and allows code-driven rapid application development of back office applications, admin/user panels and dashboards.
+
+
+
+
+
+
+
 <!--
+
+----
+
 ## Hi there 👋
 
 
