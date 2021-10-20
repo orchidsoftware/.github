@@ -3,15 +3,18 @@
 </a>
 
 
-## Hi there 👋
+## Hi, nice to see you! 👋
 
 Orchid is a free [Laravel](https://laravel.com) package that abstracts standard business logic and allows code-driven rapid application development of back office applications, admin/user panels and dashboards.
 
+## Quick start guide
+
+Are you entirely new to Laravel Orchid? 
+Don't worry, we all were once. For a quick study of the main features, be sure to check out the step-by-step tutorials [see on the site](https://orchid.software/en/docs/quickstart).
 
 
-
-
-
+----
+Do you want to contribute? Report a problem or see the code? Just select the repositories below 👇 and if you like them, give them a ⭐
 
 <!--
 
