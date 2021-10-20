@@ -11,8 +11,7 @@ Here we are developing **Orchid**. It is a free package for the Laravel framewor
 
 ## Quick start guide
 
-Are you entirely new to Laravel Orchid? 
-Don't worry, we all were once. For a quick study of the main features, be sure to check out the step-by-step tutorials [see on the site](https://orchid.software/en/docs/quickstart).
+Are you completely new? Don't worry, we all were once. For a quick study of the main features, be sure to check out the step-by-step tutorials [see on the site](https://orchid.software/en/docs/quickstart).
 
 
 ----
