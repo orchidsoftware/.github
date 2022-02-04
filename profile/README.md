@@ -16,7 +16,8 @@ For a quick study of the main features, be sure to check out the step-by-step tu
 
 
 ----
-Do you want to contribute? Report a problem or see the code? Just select the repositories below 👇 and if you like them, give them a ⭐
+Do you want to contribute? Report a problem or see the code?   
+Just select the repositories below 👇 and if you like them, give them a ⭐
 
 <!--
 
