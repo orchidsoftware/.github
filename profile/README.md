@@ -3,29 +3,26 @@
 </a>
 
 
-## Hi, nice to see you! 👋
+## Hi, good to see you! 👋
 
-Here we are developing **Orchid**. It is a free package for the Laravel framework that allows code-driven rapid application development of back-office applications, admin/user panels, and dashboards. Visit [orchid.software](https://orchid.software/) for complete details.
+We're developing **Orchid** here. It's a free package for the Laravel framework that enables code-driven, rapid application development of back-office applications, admin/user panels, and dashboards. Check out [orchid.software](https://orchid.software/) for full details.
 
+## Quick Start Guide
 
-## Quick start guide
+Are you completely new to this? Don't worry, we all were once.
+To quickly learn the most important features, check out the step-by-step tutorials you'll find [on the website](https://orchid.software/en/docs/quickstart).
 
-Are you completely new? Don't worry, we all were once.
-For a quick study of the main features, check out the step-by-step tutorials you [see on the site](https://orchid.software/en/docs/quickstart).
+## Join in
 
-
-## Contributing
-
-Thank you for choosing to contribute! There are many ways to contribute. To make improvements to the codebase, you can read [Contributing guide](https://orchid.software/en/community/contributors). No programming skills? No big deal. There are just as many ways to [Promote Orchid](https://orchid.software/en/community/promote).
-
+Thank you for choosing to contribute! There are many ways to contribute. To improve the codebase, you can read the [Guide to Contributing](https://orchid.software/en/community/contributors). No programming skills? No problem. There are just as many ways to [promote Orchid](https://orchid.software/en/community/promote).
 
 ## Code of Conduct
 
-Being involved in the community is a fantastic experience. You become part of something big, collaborate with people from all over the world, Help people make their computers unique. But along with this, there is an obligation to follow rules, which provide the most comfortable environment for all participants. Please review and abide by the [Code of Conduct](https://orchid.software/en/community/code-of-conduct).
+Getting involved in the community is a fantastic experience. You get to be part of something big, working with people from all over the world and helping people make their computers unique. But with that comes an obligation to follow rules that make all participants as comfortable as possible. Please read and abide by the [Code of Conduct](https://orchid.software/en/community/code-of-conduct).
 
 ----
-Do you want to contribute? Report a problem or see the code?   
-Just select the repositories below 👇 and if you like them, give them a ⭐
+Do you've something to contribute? Report a problem or view the code? 
+Just select the repositories below 👇 and if you like them, give them a ⭐.
 
 <!--
 
