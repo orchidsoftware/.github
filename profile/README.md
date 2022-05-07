@@ -3,7 +3,7 @@
 </a>
 
 
-## Hi, good to see you! 👋
+## Hi, nice to see you! 👋
 
 We're developing **Orchid** here. It's a free package for the Laravel framework that enables code-driven, rapid application development of back-office applications, admin/user panels, and dashboards. Check out [orchid.software](https://orchid.software/) for full details.
 
