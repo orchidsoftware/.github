@@ -22,7 +22,7 @@ Getting involved in the community is a fantastic experience. You get to be part 
 
 ----
 Do you've something to contribute? Report a problem or view the code?   
-Just select the repositories below 👇 and if you like them, give them a ⭐.
+Just select the repositories below 👇 and if you like them, give them a ⭐
 
 <!--
 
