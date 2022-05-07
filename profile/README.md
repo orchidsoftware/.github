@@ -21,7 +21,7 @@ Thank you for choosing to contribute! There are many ways to contribute. To impr
 Getting involved in the community is a fantastic experience. You get to be part of something big, working with people from all over the world and helping people make their computers unique. But with that comes an obligation to follow rules that make all participants as comfortable as possible. Please read and abide by the [Code of Conduct](https://orchid.software/en/community/code-of-conduct).
 
 ----
-Do you've something to contribute? Report a problem or view the code? 
+Do you've something to contribute? Report a problem or view the code?   
 Just select the repositories below 👇 and if you like them, give them a ⭐.
 
 <!--
