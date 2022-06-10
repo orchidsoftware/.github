@@ -5,7 +5,7 @@
 
 ## Hi, it's great to see you! 👋
 
-We're developing **Orchid** here. It's a free package for the laravel framework that enables code-driven, rapid application development of back-office applications, admin/user panels, and dashboards. Check out [orchid.software](https://orchid.software/) for full details. 
+We're developing **Orchid** here. It's a free package for the Laravel framework that enables code-driven, rapid application development of back-office applications, admin/user panels, and dashboards. Check out [orchid.software](https://orchid.software/) for full details. 
 
 
 ## Quick Start Guide
