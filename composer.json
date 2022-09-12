@@ -1,0 +1,15 @@
+{
+    "name": "orchid/orchid",
+    "autoload": {
+        "psr-4": {
+            "Orchid\\Orchid\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "tabuna",
+            "email": "bliz48rus@gmail.com"
+        }
+    ],
+    "require": {}
+}
