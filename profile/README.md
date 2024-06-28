@@ -1,6 +1,8 @@
-<a href="https://github.com/orchidsoftware/platform">
-   <img src="https://raw.githubusercontent.com/orchidsoftware/art/master/orchid-browser.png" alt="Orchid browser" />
-</a>
+<p align="center">
+   <a href="https://github.com/orchidsoftware/platform">
+      <img src="https://raw.githubusercontent.com/orchidsoftware/art/master/orchid-browser.png" height="400" alt="Orchid Browser" />
+   </a>
+</p>
 
 
 ## Hi, it's great to see you! 👋
