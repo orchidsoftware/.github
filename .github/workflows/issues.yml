@@ -15,10 +15,8 @@ jobs:
         with:
           issue-number: ${{ github.event.issue.number }}
           body: |
-            Thank you for reporting this issue!
-            
-            As an open source project, we rely on the community to help us diagnose and fix issues as it is not possible to research and fix every issue reported to us via GitHub.
-            
-            If possible, please make a pull request fixing the issue you have described, along with corresponding tests.
-            
-            Thank you!
+            Thank you so much for reporting this issue and helping improve the project! 🙏
+
+            As an open-source project, we truly rely on the community's support. If possible, we'd be incredibly grateful if you could submit a pull request with a fix and any relevant tests. 🛠️
+
+            Your contribution means a lot to all of us! ❤️
