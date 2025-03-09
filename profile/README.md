@@ -12,7 +12,8 @@ We're developing **Orchid** here. It's a free package for the Laravel framework 
 
 ## Quick Start Guide
 
-If you're completely new to this, don't worry, we all were once. To quickly learn the most important features, check out the step-by-step tutorials you'll find on the [on the website](https://orchid.software/en/docs/quickstart).
+If you're completely new to this, don't worry, we all were once.   
+To quickly learn the most important features, check out the step-by-step tutorials you'll find on the [on the website](https://orchid.software/en/docs/quickstart).
 
 
 ## Join in
